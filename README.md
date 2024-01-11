@@ -1,8 +1,8 @@
 # Desafio-Escrevendo-Classes-de-um-Jogo
  Desafio do Felipão do Curso da DIO
 
-##Instruções para entrega
-# 3️⃣ Escrevendo as classes de um Jogo
+## Instruções para entrega
+## 3️⃣ Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
